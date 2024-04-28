@@ -176,7 +176,7 @@ To set up RSpec in your app and create the Spec folder run:
 ## 🔭 Future Features <a name="future-features"></a>
 - [ ] Optimize the performance of the app.
 - [ ] Implement some UX improvements: include transitions and/or animations
-- [ ] Implement the left-side menu to improve the navigability of the app.
+- [ ] Implement the left-side menu to improve the navigability of the app
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
