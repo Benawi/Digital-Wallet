@@ -25,7 +25,7 @@
   - [📝 License ](#-license-)
 
 # 📖 Digital Wallet App <a name="about-project"></a>
-Digital Wallet App is about building a mobile web application where you can manage your budget: you have a list of transactions associated with a category so that you can see how much money you spend and on what.
+Digital Wallet App is about building a mobile web application where you can manage your budget: you have a list of transactions associated with a category so that you can see how much money you spend and on wha
 The project is a repository consisting of the following files:
 
 - Ruby files
