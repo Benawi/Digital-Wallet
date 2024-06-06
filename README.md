@@ -29,7 +29,7 @@ Digital Wallet App is about building a mobile web application where you can mana
 The project is a repository consisting of the following files:
 
 - Ruby files
-- Rails file
+- Rails file.
 - Ruby linter.
 
 ## 🛠 Built With <a name="built-with"></a>
